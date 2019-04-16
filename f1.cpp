@@ -8,4 +8,5 @@ using namespace std;
 int main()
 {
 	cout<<"hello";
+	cout<<"east or west Maulik is the best :))";
 }
